@@ -1,0 +1,395 @@
+{
+  "header.main-heading": "د افغانستان ملی موزیم",
+
+  "header.first-menu": "کور",
+  "header.second-menu": "زموږ موزیم په اړه",
+  "header.third-menu": "نندارتونونه",
+  "header.fourth-menu": "پیښې",
+  "header.fifth-menu": "مقالې",
+  "header.sixth-menu": "ګالري",
+  "header.seventh-menu": "موږ سره اړیکه",
+
+  "header.second-sub-menu-1": "د موزیم تاریخ",
+  "header.second-sub-menu-2": "ریاستونه",
+  "header.second-sub-menu-3": "تخنیکي کارمندان",
+  "header.second-sub-menu-4": "قوانین او پالیسیانې",
+
+  "header.third-sub-menu-1": "د اسلامي دور نندارتون",
+  "header.third-sub-menu-2": "د برونز دور نندارتون",
+  "header.third-sub-menu-3": "د آی ناک مسو نندارتون",
+  "header.third-sub-menu-4": "ای خانم",
+  "header.third-sub-menu-5": "زرګونه ښارونه نندارتون",
+  "header.third-sub-menu-6": "د موټرو نندارتون",
+
+  "header.sixth-sub-menu-1": "عکسونه",
+  "header.sixth-sub-menu-2": "ویډیوګانې",
+
+  "input.search-field": "دلته پلټنه وکړئ",
+
+  "hero.1st-image-title": "د پخوانیو هنرونو کشف",
+  "hero.1st-image-desc": "زموږ موزیم کې د ساتل شوې شتمنۍ بډایه تاریخ او کلتور وپلټئ. هر نندارتون د تیر وخت ځانګړې کیسه بیانوي.",
+  "hero.1st-image-btn": "زیاته معلومات ترلاسه کړئ",
+
+  "hero.2nd-image-title": "د وخت سفر",
+  "hero.2nd-image-desc": "له پری تاریخ څخه تر معاصر هنر پورې، زموږ ټولګه د بشري خلاقیت او نوښتونو په اړه سږو کېدونکي ده.",
+  "hero.2nd-image-btn": "خپله سفر پیل کړئ",
+
+  "hero.3rd-image-title": "تخصصي ټولګې",
+  "hero.3rd-image-desc": "زموږ ټولګې په دقت سره ترتیب شوي ترڅو د مختلفو کلتورونو د هنر، ساینس او تاریخ بصیرت وړاندې کړي.",
+  "hero.3rd-image-btn": "اوس وپلټئ",
+
+  "hero.4th-image-title": "تفاعلي نندارتونونه",
+  "hero.4th-image-desc": "د تفاعلي نندارتونونو سره اړیکه ونیسئ چې تاریخ د ژوند په ډکو تجربو کې راوړو.",
+  "hero.4th-image-btn": "اوس تجربه کړئ",
+
+  "hero.5th-image-title": "د کورنۍ لپاره دوستانه سفرونه",
+  "hero.5th-image-desc": "زموږ د کورنۍ دوستانه سفرونو سره ګډون وکړئ چې د ټولو عمرونو بازیدونکو سره د زړه پورې کیسو او خوندورو حقایقو سره مشغول دي.",
+  "hero.5th-image-btn": "سفر بک کړئ",
+
+  "hero.6th-image-title": "هنر او نوښت",
+  "hero.6th-image-desc": "د ډیجیټل او معاصر هنر په اړه زموږ د پخوانیو نندارتونونو سره د هنر او ټیکنالوژۍ ترمنځ اړیکه وپلټئ.",
+  "hero.6th-image-btn": "هنر وپلټئ",
+
+  "hero.7th-image-title": "پټ شتمنۍ",
+  "hero.7th-image-desc": "د پخوانیو تمدنونو نه نادر آثار د ځانګړو نندارتونونو کې ومومئ.",
+  "hero.7th-image-btn": "اوس ومومئ",
+
+  "hero.8th-image-title": "معاصر شگافونه وپلټئ",
+  "hero.8th-image-desc": "زموږ د معاصر هنر ټولګې سره د معاصر خلاقیت او نوښت د شگافونو شاهد شئ.",
+  "hero.8th-image-btn": "ټولګه وګورئ",
+
+  "eventspage-email-error": "مهرباني وکړئ د برېښنالیک یو سم آدرس ولیکئ.",
+
+  "musemuInfoBar.title": "د بشري تاریخ او کلتور دوه ملیونه کلونه وپلټئ",
+  "musemuInfoBar.free-entry": "وېشنه وړیا",
+  "musemuInfoBar.book-online": "انلاین بک کړئ",
+  "musemuInfoBar.open-today": "نن پرانستی: ۱۰:۰۰–۱۷:۰۰",
+  "musemuInfoBar.last-entry": "آخرنۍ داخلیدل: ۱۲.۷",
+
+  "museumVisits-main-title": "موزیم ته لاړ شئ",
+
+  "museumVisits-1st-image-title": "خپل سفر پلان کړئ",
+  "museumVisits-1st-image-desc": "ټکټونه بوک کړئ او خپل ورځ پلان کړئ چې نندارتونونه، تسهیلات، لاسرسی، خوراک او سفر شامل وي",
+
+  "museumVisits-2nd-image-title": "د موزیم نقشه",
+  "museumVisits-2nd-image-desc": "د موزیم په اسانۍ سره وپلټئ، زموږ د پوړ په پوړ پلان سره او هغه څه ومومئ چې نه مو باید له لاسه ورکړئ",
+
+  "museumVisits-3rd-image-title": "ګالری",
+  "MuseumVisits-3rd-image-desc": "د تاریخ او کلتور دوه ملیونه کلونه د ۵۰ څخه زیاتو ګالریو له لارې تیر کړئ",
+
+  "museumVisits-4th-image-title": "د کورنۍ سفرونه",
+  "museumVisits-4th-image-desc": "د کورنۍ تسهیلاتو نه تر فعالیتونو او پیښو پورې، زده کړئ چې څنګه د موزیم په ورځ کې له غوره تجربو خوند واخلئ",
+
+  "aboutMuseum-title": "موزیم تجربه کړئ",
+  "aboutMuseum.main-title": "دنیا په هنرونو کې پوښل شوی",
+  "aboutMuseum-desc": "دا د افغانستان تر ټولو لوی موزیم دی او د زره، آثار، زیورات، هډوکي، فسیلونه، مومیایې، ښکلي مغل انځورونه د زړو کلکسیونونو سره متکامل دی.",
+  "aboutMuseum-btn": "زیات ویډیوګانې",
+
+  "exhibition-title": "زموږ نندارتونونه وګورئ",
+  "exhibition-description": "د زړه راښکونکو نندارتونونو څخه خوند واخلئ چې هنر، کلتور او تاریخ ښکاره کوي.",
+  "upcoming-exhibitions": "راتلونکي نندارتونونه",
+  "past-exhibitions": "تېر نندارتونونه",
+
+
+  "eventSection-main-title": "د موزیم پیښې",
+
+  "eventSection.1st-image-title": "د هنر او تاریخ نندارتون",
+  "eventSection.1st-image-desc": "د کلاسیک او معاصر هنر ټوټو د دې تفاعلي نندارتون له لارې د هنر شتمن تاریخ وپلټئ",
+
+  "eventSection.2nd-image-title": "د پخواني مصر نندارتون",
+  "eventSection.2nd-image-desc": "د پخواني مصر نړۍ وپلټئ، د آثار، مجسمو او تاریخي خزانونو سره",
+
+  "eventSection.3rd-image-title": "د رینسانس هنر نندارتون",
+  "eventSection.3rd-image-desc": "د رینسانس دورې نه د حیرانونکې کارونو یوه ټولګه، چې د هنر او تاریخ ماهرتوب ښیي",
+
+  "eventSection.4th-image-title": "معاصر هنر آثار",
+  "eventSection.4th-image-desc": "د نړۍ د ترټولو غوره هنرمندانو او نوښتګرو څخه د معاصر هنر مختلف ټوټو ټولګه",
+
+  "eventSection.5th-image-title": "د تصور او بل څه نندارتون",
+  "eventSection.5th-image-desc": "د تصوراتی کارونو او د دوی د مدرن هنر نړۍ باندې تاثیر یوه شگاف",
+
+  "eventSection.6th-image-title": "د عکاسی تاریخ",
+  "eventSection.6th-image-desc": "د عکاسی د پرمختګ یوه زړه راښکونکې نندارتون چې د خپل لومړني ورځو نه تر ډیجیټل دور پورې دی",
+
+  "eventSection.7th-image-title": "مجسمه او د پته هنر",
+  "eventSection.7th-image-desc": "د بشري تاریخ مختلفو دورو نه د پته هنر او مجسمو یوه ژوره کتنه",
+
+  "eventSection.8th-image-title": "د تیر وخت مشهور انځورونه",
+  "eventSection.8th-image-desc": "د تاریخي او هنري نړۍ د شکل ورکولو لپاره یوه مشهوره انځور هنر ټولګه",
+
+  "eventSection.9th-image-title": "د پخواني آسیایي هنر",
+  "eventSection.9th-image-desc": "د پخواني آسیایي هنر ښکلا او تفصیل تجربه کړئ، چې د بډایه کلتوري تاریخ ننداره کوي",
+
+  "eventSection-btn": "زیات ولولئ",
+
+  "notification-header":" تازه خبرتیاوې",
+  "notification-title":"د رخصتۍ خبرتیا",
+
+  "directorateSection-msg": "د رییس پیغام",
+  "directorateSection-name": "عمر خان مسعودی",
+  "directorateSection-greeting": "د رییس د مېز نه سلام !!",
+
+  "directorateSection-desc": "د افغانستان موزیم زموږ په هېواد کې تر ټولو زوړ او لوی موزیم دی. افغان ملي موزیم په ۱۹۱۹ کال کې د شاه امان الله خان په واکمنۍ کې پرانستل شو، افغانستان موزیم د آسیا-پاسیفیک سیمې لومړی موزیم دی او په قاره کې د موزیمونو د حرکت د تنظیمولو رول لوبولی دی...",
+  "directorateSection-btn": "زیات ولولئ",
+
+  "visitorInfo-btn": "ټکټ بک کړئ",
+  "visitorInfo-main-title": "د لیدونکو معلومات",
+  "visitorInfo-closed": "ټول دوشنبې بند دي",
+  "visitorInfo-open-hour": "د پرانیستلو ساعت",
+  "visitorInfo-open-time": "سه‌شنبه-شنبه: ۱۰:۰۰-۱۸:۰۰",
+
+  "visitorInfo-entry": "د داخلیدو فیس",
+  "visitorInfo-adults": "د لویانو لپاره: AFN 30/-",
+  "visitorInfo-kids": "د ۱۸ کلونو لاندې: AFN 20/-",
+  "visitorInfo-foreign": "د بهرنیو اتباعو لپاره: AFN 50/-",
+  "visitorInfo-phone-photography": "د سمارټ فون کیمرې سره عکاسي: AFN 40/-",
+  "visitorInfo-camera-photography": "د DSLR کیمرې سره عکاسي: AFN 60/-",
+
+  "visitorInfo-location-title": "موقعیت",
+  "visitorInfo-location": "دارالامان، کابل، افغانستان",
+
+  "visitorInfo-phone-title": "تلیفون",
+  "visitorInfo-phone": "+93 20 252 0329",
+
+  "visitorInfo-email-title": "برېښنالیک",
+  "visitorInfo-email": "nationalmuseum.afg@gmail.com",
+
+  "visitorInfo-inquiry": "د موزیم په اړه هر ډول پوښتنې یا معلوماتو لپاره، مهرباني وکړئ د معلوماتو میز سره اړیکه ونیسئ",
+
+  "footer.main-title": "د ملي موزیم افغانستان",
+
+  "footer.desc": "۲۰۲۴ د افغانستان ملي موزیم. ټول حقونه خوندي دي.",
+  "footer.company-developer": "ملاتړ شوی لخوا",
+  "footer.company-name": "د آریا ډیلټا مشورتي ګروپ",
+
+  "aboutHistory-main-title": "زموږ د موزیم تاریخ",
+  "aboutHistory-main-desc": "ملي موزیم د لرغونو میراث ساتي او مهم تاریخي توکي نندارې ته وړاندې کوي",
+
+  "titleWithDesc-title": "د افغانستان ملي موزیم تاریخ",
+  "titleWithDesc-desc": "د افغانستان ملي موزیم شتمن تاریخ وپلټئ، بې وخته اثار او خزینې نندارې ته وړاندې کوي چې د دې هیواد د ژوندۍ او زړې تیریدونکې ژمنتیا جوهر څرګندوي. په هره ټوټه کې ښکلا ومومئ!",
+
+  "historicalTopics-title": "تاریخي موضوعات",
+  "historicalTopics-1st-img-title": "د لرغوني افغانستان اثار",
+  "historicalTopics-2nd-img-title": "د ورېښمو لارې کلتوري میراث",
+  "historicalTopics-3rd-img-title": "د امپراتورۍ دورې آثار",
+  "historicalTopics-4th-img-title": "د کلتوري میراث بیا راژوندي کول",
+
+  "historicalTime-title": "په دې تاریخي وخت کې له موږ سره مرسته وکړئ",
+  "historicalTime-1st-img-title": "مرسته وکړئ",
+  "historicalTime-1st-img-desc": "نن له موږ سره په مرسته کولو سره زموږ له ماموریت ملاتړ وکړئ!",
+  "historicalTime-2nd-img-title": "غړی شئ",
+  "historicalTime-2nd-img-desc": "نن له موږ سره یوځای شئ او ځانګړي غړي ګټې ترلاسه کړئ!",
+  "historicalTime-3rd-img-title": "لاس په کار شئ",
+  "historicalTime-3rd-img-desc": "له موږ سره یوځای شئ او د افغانستان د میراث په ساتنه کې مرسته وکړئ!",
+  "historicalTime-4th-img-title": "له موږ څخه خرید وکړئ",
+  "historicalTime-4th-img-desc": "ځانګړي توکي وپلټئ او زموږ د کلتوري ساتنې ملاتړ وکړئ!",
+
+  "aboutDirectorate-main-title": "د مدیرانو پیغام",
+
+  "aboutDirectorate-main-desc": "ریاستونه د راتلونکو نسلونو لپاره د کلتوري میراث د ساتنې ژمنه تازه کوي",
+
+  "director-msg-title": "د مدیر پیغام",
+  "director-name": "عمره خان مسعودي",
+  "director-name-sub-title": "مدیر، د افغانستان ملي موزیم",
+  "director-msg-desc-1": "سلامونه له افغانستان ملي موزیم څخه. د افغانستان ملي موزیم په ۱۹۱۹ کال کې د امیر امان الله خان په واکمنۍ کې پرانیستل شو او د اسیا-پاسفیک په سیمه کې لومړی موزیم دی. په تیرو لسیزو کې، دې موزیم د اثارو پراخه مجموعه راټوله کړې، له تاریخي آثارو څخه تر ورېښمو لارې او د لرغونو امپراتوریو خزانو پورې.",
+  "director-msg-desc-2": "سره له دې چې له ننګونو سره مخ شوی دی، په شمول د غلا او تخریب په شخړو کې، موزیم د مقاومت سمبول پاتې شوی او د ملت تاریخ د ساتنې لپاره وقف شوی دی. نن ورځ، دا د افغانستان د کلتور یو رڼا ده چې پوهانو، تاریخ پوهانو او لیدونکو ته د نړۍ له ګوټ ګوټ څخه راجلبوي.",
+
+  "technicalStaff-main-title": "زموږ مسلکي ټیم سره وینئ",
+  "technicalStaff-main-desc": "زموږ د متعهدو متخصصینو ټیم سره آشنا شئ چې د خپل کلتوري میراث د ساتنې او ترویج لپاره ژمن دي",
+
+  "technicalStaff-card-main-title": "زموږ تخنیکي کارکوونکي",
+
+  "technicalStaff-1st-card-name": "وقاص محمود",
+  "technicalStaff-1st-card-position": "مشر انجنیر",
+  "technicalStaff-1st-card-desc": "په MERN Stack ټیکنالوژۍ کې ماهر دی، چې له 3 کلونو څخه زیات په لویو پروژو کې تجربه لري.",
+
+  "technicalStaff-2nd-card-name": "محمد بلال",
+  "technicalStaff-2nd-card-position": "د ری‌اکت ارشد پراختیا ورکوونکی",
+  "technicalStaff-2nd-card-desc": "یو فرانت‌اند پراختیا ورکوونکی چې په ری‌اکت، جاوا اسکریپټ او ReduxToolkit کې تخصص لري.",
+
+  "technicalStaff-3rd-card-name": "عثمان علي",
+  "technicalStaff-3rd-card-position": "بیک‌اند پراختیا ورکوونکی",
+  "technicalStaff-3rd-card-desc": "په بیک‌اند پراختیا کې ماهر دی چې له 3 کلونو څخه زیات په لویو پروژو کې تجربه لري.",
+
+  "technicalStaff-4th-card-name": "محمد سعد",
+  "technicalStaff-4th-card-position": "ری‌اکت پراختیا ورکوونکی",
+  "technicalStaff-4th-card-desc": "په ری‌اکت پراختیا کې ماهر دی چې له 3 کلونو څخه زیات په لویو پروژو کې تجربه لري.",
+
+  "technicalStaff-5th-card-name": "وقاص محمود",
+  "technicalStaff-5th-card-position": "د پروژې مدیر",
+  "technicalStaff-5th-card-desc": "په پروژې مدیریت کې ماهر دی، چې له 3 کلونو څخه زیات په لویو پروژو کې تجربه لري.",
+
+  "technicalStaff-6th-card-name": "جان دو",
+  "technicalStaff-6th-card-position": "مشر انجنیر",
+  "technicalStaff-6th-card-desc": "په میخانیکي انجنیرۍ کې ماهر دی چې له 15 کلونو څخه زیات په لویو پروژو کې تجربه لري.",
+
+  "technicalStaff-card-btn": "اړیکه",
+
+  "technicalStaff-team-main-title": "زموږ د تخنیکي ټیم برخه شئ",
+  "technicalStaff-team-sub-title": "موږ نوښت او استعداد ته ارزښت ورکوو. خپل رزومه واستوئ او راځئ چې یوځای راتلونکې جوړه کړو.",
+  "technicalStaff-team-input": "ستاسو ایمیل پته",
+  "technicalStaff-team-btn": "اوس غوښتنه وکړئ",
+  "technicalStaff-team-last-sentence": "راځئ چې یوځای وده وکړو! ستاسو معلومات زموږ سره خوندي دي.",
+
+  "regAndPol-main-title": "زموږ مقررات او تګلاره",
+  "regAndPol-main-desc": "زموږ مقررات او سیاستونه وپلټئ چې د ټولو لیدونکو لپاره یو خوندي او غني تجربه تضمینوي",
+
+  "regAndPol-imp-pol-main-title": "مهم پالیسۍ",
+
+  "regAndPol-imp-pol-1st-card-title": "د محرمیت پالیسي",
+  "regAndPol-imp-pol-1st-card-desc": "زموږ د محرمیت پالیسي څرګندوي چې څنګه ستاسو شخصي معلومات راټول، کارول او ساتل کیږي.",
+
+  "regAndPol-imp-pol-2nd-card-title": "د خدمتونو شرایط",
+  "regAndPol-imp-pol-2nd-card-desc": "دغه شرایط ستاسو د خدمتونو کارونه تنظیموي او ستاسو حقوق او مسولیتونه روښانه کوي.",
+
+  "regAndPol-imp-pol-3rd-card-title": "د بیرته ستنیدو پالیسي",
+  "regAndPol-imp-pol-3rd-card-desc": "زموږ د بیرته ستنیدو پروسې، شرایطو او څنګه د بیرته ستنیدو غوښتنه کولو په اړه زده کړه وکړئ.",
+
+  "regAndPol-imp-pol-4th-card-title": "د کوکي پالیسي",
+  "regAndPol-imp-pol-4th-card-desc": "دغه پالیسي روښانه کوي چې څنګه موږ په خپله وېبپاڼه کې کوکي او ورته ټیکنالوژۍ کاروو.",
+
+  "regAndPol-freq-Ques-main-Title": "پرله پسې پوښتنې",
+
+  "regAndPol-freq-Ques-1": "زه څنګه بشپړ شرایطو ته لاسرسی ترلاسه کولی شم؟",
+  "regAndPol-freq-Ques-1-answer": "تاسو کولی شئ زموږ په د خدمتونو شرایطو پاڼه کې بشپړ شرایط وګورئ.",
+  "regAndPol-freq-Ques-2": "که زه د خپل محرمیت په اړه اندیښنه لرم، څه باید وکړم؟",
+  "regAndPol-freq-Ques-2-answer": "مهرباني وکړئ د محرمیت اړوند اندیښنو یا پوښتنو لپاره زموږ د ملاتړ ټیم سره اړیکه ونیسئ.",
+  "regAndPol-freq-Ques-3": "څنګه د بیرته ستنیدو غوښتنه وکړم؟",
+  "regAndPol-freq-Ques-3-answer": "د بیرته ستنیدو د غوښتنې لپاره، زموږ د بیرته ستنیدو پالیسي پاڼه ته لاړ شئ او دقیق لارښوونې ولولئ.",
+  "regAndPol-freq-Ques-4": "تاسو کوم ډول کوکي کاروئ؟",
+  "regAndPol-freq-Ques-4-answer": "موږ د وېبپاڼې د فعالیت لپاره ضروري کوکي کاروو او د کارونکي تجربې د ښه کولو لپاره تحلیلي کوکي کاروو.",
+
+  "eventsPage-main-title": "زموږ پیښې وګورئ",
+  "eventsPage-main-desc":"د کلتور او تاریخ لمانځنې لپاره د هیجان انگیزو پیښو مختلف ډولونه ومومئ",
+
+  "eventsPage-up-com-events-main-title": "راتلونکې پیښې",
+
+  "eventsPage-up-com-events-1st-title": "د تاریخي اثارو نندارتون",
+  "eventsPage-up-com-events-1st-desc": "لکه د بختریا طلايي ټولګه، د ګندهارا بودایي پاتې شوني، او د کوشان امپراتورۍ ټوټې",
+
+  "eventsPage-up-com-events-2nd-title": "ښوونیز پروګرامونه او کارګاوې",
+  "eventsPage-up-com-events-2nd-desc": "ښوونیزې پیښې چې پوهان، لرغونپوهان او تاریخپوهان د زده کوونکو او څېړونکو لپاره د کارګاوو ترسره کولو لپاره راوبولي",
+
+  "eventsPage-up-com-events-3rd-title": "کلتوري پیښې او جشنونه",
+  "eventsPage-up-com-events-3rd-desc": "موزیم ډیری وختونه د افغان میراث په ویاړ کلتوري جشنونه کوربه توب کوي، چې پکې د نوروز (فارسي نوی کال) په ګډون دودیزې صنایع، موسیقي او خواړه نندارې ته وړاندې کېږي",
+
+  "eventsPage-up-com-events-4th-title": "د افغان هنرونو او صنایعو نندارتون",
+  "eventsPage-up-com-events-4th-desc": "یو ژوندی نندارتون چې د ځایي افغان هنرمندانو او صنعتکارانو ویاړ کوي",
+
+  "eventsPage-up-com-events-btn": "نور معلومات ترلاسه کړئ",
+
+  "eventsPage-past-events-main-title": "تیرې پیښې",
+
+  "eventsPage-past-events-1st-title": "د تاریخي موزیم سفر",
+  "eventsPage-past-events-1st-desc": "د افغانستان د ملي موزیم یو لارښود شوی سفر",
+
+  "eventsPage-past-events-2nd-title": "د تاریخي نسخو نندارتون",
+  "eventsPage-past-events-2nd-desc": "د افغان تاریخي نسخو یوه نادره ټولګه په نندارتون کې ښودل شوې ده",
+
+  "eventsPage-past-events-3rd-title": "هنري نندارتونونه او د ځایي هنرمندانو نندارې",
+  "eventsPage-past-events-3rd-desc": "موزیم د افغان هنر نندارتونونه وړاندې کوي چې میراث، هویت او شخړې ته پام کوي",
+
+  "eventsPage-past-events-btn": "تفصیلات وګورئ",
+
+  "eventsPage-update-main-title": "خبر وسئ!",
+  "eventsPage-update-desc": "د راتلونکو پیښو په اړه د تازه معلوماتو ترلاسه کولو لپاره زموږ خبر پاڼې ته ګډون وکړئ",
+  "eventspage-input-placeholder": "خپل بریښنالیک ولیکئ...",
+  "eventspage-update-btn": "ګډون وکړئ",
+
+  "articlesPage-main-title": "د موزیمونو نړۍ وپلټئ",
+  "articlesPage-main-desc": "د موزیمونو نړۍ څخه وروستي کیسې، تمایلات او نوښتونه وپلټئ",
+
+  "articlesPage-title": "ځانګړي مقالې",
+
+  "articlesPage-1st-card-title": "هنر د تاریخ په اوږدو کې تحول",
+  "articlesPage-1st-card-desc": "وګورئ چې څنګه هنر په پیړیو کې بدل شوی او له پخوانیو شاهکارونو څخه څه زده کوو",
+  "articlesPage-2nd-card-title": "په عصري موزیمونو کې پایښت",
+  "articlesPage-2nd-card-desc": "څنګه موزیمونه په ټوله نړۍ کې د کلتور د ساتنې ترڅنګ د سیارې د ساتنې لپاره چاپیریال ته دوستانه حل لارې خپلوي",
+  "articlesPage-3rd-card-title": "په موزیمونو کې د ټکنالوژۍ رول",
+  "articlesPage-3rd-card-desc": "ومومئ چې موزیمونه څنګه ټکنالوژي کاروي ترڅو متقابل او ډوبونکي تجربې وړاندې کړي",
+  "articlesPage-4th-card-title": "د لرغونو تمدنونو نندارې",
+  "articlesPage-4th-card-desc": "سفر د هغو نندارتونونو له لارې چې د لرغونو تمدنونو پاتې شوني او کیسې ښیي",
+  "articlesPage-5th-card-title": "کلتوري میراث او ساتنه",
+  "articlesPage-5th-card-desc": "موزیمونه څنګه راتلونکو نسلونو ته د کلتوري میراث په ساتنه کې حیاتي رول لوبوي",
+  "articlesPage-6th-card-title": "مجازی موزیم سفرونه: نوی عصر",
+  "articlesPage-6th-card-desc": "د مجازی سفرونو زیاتوالی او دا چې موزیمونه د هر چا لپاره، په هر ځای کې څنګه لاسرسی لري",
+
+  "articlesPage-card-btn": "نور ولولئ",
+  "articlesPage-load-more-btn": "نور پورته کړئ",
+
+  "gallery-home-heading":"د موزیم ګالري",
+
+  "galleryPhotos-main-title": "زموږ په ګالري کې عکسونه",
+  "galleryPhotos-main-desc":"زموږ په ګالري کې د زړه پورې انځورونو له لارې د خپل بډایه میراث د تجربې لپاره لاړ شئ",
+
+  "galleryPhotos-title": "زموږ خلاقه ګالري",
+  "galleryPhotos-desc": "زموږ د خیره کوونکو لیدونو ټولګه وپلټئ، چې د خلاقیت او الهام بخښونکو شیبو جوهر ښیي. ځان پکې ډوب کړئ او په هر عکس کې ښکلا ومومئ!",
+
+  "galleryPhotos-gallery-view-title": "د ګالري لید",
+  "galleryPhotos-gallery-view-1st-img-title": "تل پاتې هنري نندارتون",
+  "galleryPhotos-gallery-view-2nd-img-title": "شانداره اسلامي معمارۍ",
+
+  "galleryPhotos-gallery-coll-main-title": "د ګالري ټولګه",
+
+  "galleryPhotos-gallery-coll-1st-img-title": "پیچلي حکاکي شوې ډبرینه مجسمه",
+  "galleryPhotos-gallery-coll-1st-img-desc": "د لرغوني هنر او کلتوري میراث نندارې ته وړاندې کول",
+
+  "galleryPhotos-gallery-coll-2nd-img-title": "د افغانستان ملي بیرغ",
+  "galleryPhotos-gallery-coll-2nd-img-desc": "انځور د افغانستان ملي بیرغ ښیي چې د نیمه وريځ آسمان په وړاندې رپیږي",
+
+  "galleryPhotos-gallery-coll-3rd-img-title": "پیچلي حکاکي شوې ډبرینه مجسمه",
+  "galleryPhotos-gallery-coll-3rd-img-desc": "د لرغوني هنر او کلتوري میراث نندارې ته وړاندې کول",
+
+  "galleryVideos-main-title": "ویډیوګانې په زموږ ټولګه کې",
+  "galleryVideos-main-desc":"زموږ د ویدیوګانو ټولګه وپلټئ چې زموږ تاریخ او کلتور ژوندی کوي",
+
+  "galleryVideos-title": "زموږ الهام بخښونکي ویډیوګانې",
+  "galleryVideos-desc": "زموږ ځانګړې ویډیو ټولګه ومومئ، چې کیسې او شیبې ښیي چې تاسو به الهام او بوخت کړي. د خلاقیت او تصور نړۍ ته ځان ورښکته کړئ!",
+
+  "galleryVideos-featured-main-title": "ځانګړي ویډیوګانې",
+
+  "galleryVideos-featured-1st-video-title": "خلاق سفر",
+  "galleryVideos-featured-1st-video-desc": "د هنري نوښت لاره د دې زړه پورې مستند له لارې تعقیب کړئ",
+
+  "galleryVideos-featured-2nd-video-title": "نوښتګر ډیزاین رجحانات",
+  "galleryVideos-featured-2nd-video-desc": "په دې ژور ویډیو کې د ډیزاین وروستي رجحانات وپلټئ",
+
+  "galleryVideos-featured-3rd-video-title": "شاهکار جوړښتونه",
+  "galleryVideos-featured-3rd-video-desc": "د تل پاتې هنري شاهکارونو تکامل وګورئ",
+
+  "gallerryVideos-more-videos-main-title": "نوره ویډیوګانې",
+  "gallerryVideos-more-video-title": "د افغانستان ملي موزیم",
+  "gallerryVideos-more-video-desc": "د افغانستان بډای میراث ساتنه",
+
+  "contactPage-main-title": "مونږ سره اړیکه ونیسئ",
+  "contactPage-main-desc":"موږ ستاسو پوښتنو ته هرکلی کوو او د اړیکې لپاره ستاسو په تمه یو",
+
+  "contactPage-info-title": "اړیکې معلومات",
+  "contactPage-info-phone": "تلیفون",
+  "contactPage-info-phone-no": "+۹۳۲۰۲۵۲۰۳۲۹",
+  "contactPage-info-email": "ایمیل",
+  "contactPage-info-email-value": "nationalmuseum.afg@gmail.com",
+  "contactPage-info-location": "ځای",
+  "contactPage-info-location-value": "درالامان، کابل، افغانستان",
+  "contactPage-msg-main-title": "مونږ ته یو پیغام ولیږئ",
+  "contactPage-input-name-placeholder": "ستاسو نوم",
+  "contactPage-input-email-placeholder": "ستاسو برېښنالیک",
+  "contactPage-input-msg-placeholder": "ستاسو لپاره پیغام",
+  "contactPage-msg-btn": "وګورئ",
+  "contactPage-map-main-title": "مونږ ته ورکړئ",
+
+  "home-banner.slider-ist.heading": "مناسب پرمختګ",
+  "home-banner.slider-ist.description": "د افغان انویسټ د حرکت ځواک کشف کړئ: زموږ لید، زموږ ټیم، زموږ ژمنه",
+  "home-banner.slider-2nd.heading": "د کانونو سکتور",
+  "home-banner.slider-2nd.description": "موږ د ملي ویاړ او زموږ تخصص باندې جوړ شو ترڅو باوري او مسؤل کان کیندنې خدمات وړاندې کړو",
+  "home-banner.slider-3rd.heading": "د انرژۍ سکتور",
+  "home-banner.slider-3rd.description": "د نوښتګر او پایدار انرژۍ حلونو سره د افغانستان راتلونکې ته بریښنا ورکول",
+  "home-banner.slider-4th.heading": "خبرونه او رسنۍ",
+  "home-banner.slider-4th.description": "دلته وروستي معلومات، دندې او د شرکت insights ته لاسرسی وکړئ",
+  "home-banner.slider-5th.heading": "مؤسسان",
+  "home-banner.slider-5th.description": "د افغان انویسټ شاته لیدونکي: زموږ مؤسسان، زموږ میراث، زموږ هڅه",
+  "home-banner.redirect-btn": "زیات ولولئ",
+
+  "home-about.main-heading": "زموږ په اړه",
+  "home-about.sub-heading": "د افغان انویسټ په اړه ټول معلومات"
+}

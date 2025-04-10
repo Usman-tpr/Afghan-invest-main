@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+@font-face {
+  font-family: 'customm';
+  src: url('../public/assets/fonts/NAZANIN.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* *{
+  font-family: "Poppins", sans-serif;
+} */
+
+.english-font {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Persian font style */
+
+.persian-font {
+  font-family: 'Noto Natasliq Urdu';
+}
+
+/* Pashto font style */
+.pashto-font {
+  font-family: 'Noto Natasliq Urdu';
+}
+
+
+/* body {
+  font-family: 'Poppins', sans-serif;
+} */
+
+
+.floating-icons {
+  position: fixed;
+  right: 20px;
+  bottom: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 1000;
+}
+
+.icon-wrapper {
+  width: 50px;
+  height: 50px;
+  animation: float 3s ease-in-out infinite;
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+
+.icon-wrapper:hover {
+  transform: scale(1.2);
+}
+
+.icon {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}

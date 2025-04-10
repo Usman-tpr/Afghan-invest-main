@@ -1,0 +1,390 @@
+{
+  "header.main-heading": "موزیم ملی افغانستان",
+
+  "header.first-menu": "ضفحه اصلی ",
+  "header.second-menu": "در باره موزیم",
+  "header.third-menu": "نمایشگاه ها",
+  "header.fourth-menu": "رویداد ها ",
+  "header.fifth-menu": "مقالات",
+  "header.sixth-menu": "گالری ",
+  "header.seventh-menu": "تماس با ما ",
+
+  "header.second-sub-menu-1": "تاریخچه موزیم",
+  "header.second-sub-menu-2": "آمریت ها",
+  "header.second-sub-menu-3": "کارمندان تخنیکی",
+  "header.second-sub-menu-4": "مقررات و پالیسی ها",
+
+  "header.third-sub-menu-1": "نمایشگاه دوره اسلامی",
+  "header.third-sub-menu-2": "نمایشگاه دوره برنز",
+  "header.third-sub-menu-3": "نمایشگاه مس عینک",
+  "header.third-sub-menu-4": "آی حانم",
+  "header.third-sub-menu-5": "نمایشگاه هزار شهر",
+  "header.third-sub-menu-6": "نمایشگاه موتر ها",
+
+  "header.sixth-sub-menu-1": "عکس ها",
+  "header.sixth-sub-menu-2": "ویدیو ها",
+
+  "input.search-field": "اینجا جستجو کنید",
+
+  "hero.1st-image-title": "کشف آثار باستانی",
+  "hero.1st-image-desc": "تاریخ و فرهنگ غنی حفظ‌شده در موزه ما را کاوش کنید. هر نمایشگاه داستان منحصربه‌فردی از گذشته را روایت می‌کند",
+  "hero.1st-image-btn": "بیشتر بیاموزید",
+
+  "hero.2nd-image-title": "سفری در طول زمان",
+  "hero.2nd-image-desc": "از آثار باستانی ماقبل تاریخ تا هنر مدرن، مجموعه ما قرن‌ها از خلاقیت و نبوغ بشری را در بر می‌گیرد",
+  "hero.2nd-image-btn": "تور خود را آغاز کنید",
+
+  "hero.3rd-image-title": "مجموعه‌های برگزیده",
+  "hero.3rd-image-desc": "مجموعه‌های ما با دقت انتخاب شده‌اند تا بینشی در هنر، علم، و تاریخ فرهنگ‌های گوناگون ارائه دهند",
+  "hero.3rd-image-btn": "اکنون کاوش کنید",
+
+  "hero.4th-image-title": "نمایشگاه‌های تعاملی",
+  "hero.4th-image-desc": "با نمایشگاه‌های تعاملی ما که تاریخ را از طریق تجربیات فراگیر زنده می‌کنند، به صورت عملی آشنا شوید",
+  "hero.4th-image-btn": "اکنون تجربه کنید",
+
+  "hero.5th-image-title": "تورهای مناسب خانواده",
+  "hero.5th-image-desc": "به تورهای خانوادگی ما بپیوندید که برای جذب بازدیدکنندگان از تمام سنین با داستان‌های جذاب و حقایق جالب طراحی شده‌اند",
+  "hero.5th-image-btn": "تور خود را رزرو کنید",
+
+  "hero.6th-image-title": "هنر و نوآوری",
+  "hero.6th-image-desc": "با نمایشگاه‌های پیشرفته ما در زمینه هنر دیجیتال و مدرن، به تقاطع هنر و فناوری پی ببرید",
+  "hero.6th-image-btn": "کاوش در هنر",
+
+  "hero.7th-image-title": "گنجینه‌های پنهان",
+  "hero.7th-image-desc": "گنجینه‌های پنهان را در نمایشگاه‌های ویژه ما کشف کنید که آثار نادر از تمدن‌های باستانی را به نمایش می‌گذارند",
+  "hero.7th-image-btn": "اکنون کشف کنید",
+
+  "hero.8th-image-title": "شگفتی‌های مدرن را کشف کنید",
+  "hero.8th-image-desc": "شگفتی‌های صنعت‌گری و نوآوری مدرن را با مجموعه هنر معاصر ما مشاهده کنید",
+  "hero.8th-image-btn": "مجموعه را مشاهده کنید",
+
+  "eventspage-email-error": "لطفاً یک آدرس ایمیل معتبر وارد کنید.",
+
+  "musemuInfoBar.title": "دو میلیون سال از تاریخ و فرهنگ بشر را کشف کنید",
+  "musemuInfoBar.free-entry": "ورود رایگان",
+  "musemuInfoBar.book-online": "رزرو آنلاین",
+  "musemuInfoBar.open-today": "امروز باز است: ۱۰:۰۰–۱۷:۰۰",
+  "musemuInfoBar.last-entry": "آخرین ورود: ۱۲:۷",
+
+  "museumVisits-main-title": "از موزه بازدید کنید",
+
+  "museumVisits-1st-image-title": "برنامه‌ریزی بازدید شما",
+  "museumVisits-1st-image-desc": "بلیط‌ها را رزرو کنید و روز خود را برنامه‌ریزی کنید، شامل نمایشگاه‌ها، امکانات، دسترسی، غذا و سفر",
+
+  "museumVisits-2nd-image-title": "نقشه موزه",
+  "museumVisits-2nd-image-desc": "با استفاده از نقشه طبقه به طبقه ما، به راحتی در موزه گشت و گذار کنید و ببینید چه چیزهایی را نباید از دست بدهید",
+
+  "museumVisits-3rd-image-title": "گالری‌ها",
+  "museumVisits-3rd-image-desc": "در بیش از ۵۰ گالری قدم بزنید و دو میلیون سال از تاریخ و فرهنگ را مرور کنید",
+
+  "museumVisits-4th-image-title": "بازدیدهای خانوادگی",
+  "museumVisits-4th-image-desc": "از امکانات خانوادگی تا فعالیت‌ها و رویدادها، کشف کنید که چگونه می‌توانید از روز خود در موزه بیشترین بهره را ببرید",
+
+  "aboutMuseum-title": "تجربه کنید موزه را",
+  "aboutMuseum.main-title": "پوشش جهانی هنرها",
+  "aboutMuseum-desc": "بزرگترین موزه در سراسر افغانستان که دارای مجموعه‌های بی‌نظیری از زره‌ها، عتیقه‌ها، زیورآلات، اسکلت‌ها، فسیل‌ها، مومیایی‌ها و نقاشی‌های زیبای مغولی است",
+  "aboutMuseum-btn": "ویدیوهای بیشتر",
+
+  "exhibition-title": "نمایشگاه‌های ما را کشف کنید",
+  "exhibition-description": "نمایشگاه‌های جذابی را کشف کنید که هنر، فرهنگ و تاریخ را به نمایش می‌گذارند.",
+  "upcoming-exhibitions": "نمایشگاه‌های آینده",
+  "past-exhibitions": "نمایشگاه‌های گذشته",
+
+  "eventSection-main-title": "رویدادهای موزه",
+
+  "eventSection.1st-image-title": "نمایشگاه هنر و تاریخ",
+  "eventSection.1st-image-desc": "تاریخ غنی هنر را از طریق این نمایشگاه غوطه‌ور از آثار کلاسیک و مدرن کشف کنید",
+
+  "eventSection.2nd-image-title": "نمایشگاه مصر باستان",
+  "eventSection.2nd-image-desc": "جهان مصر باستان را کشف کنید، شامل آثار باستانی، مجسمه‌ها و گنجینه‌های تاریخی",
+
+  "eventSection.3rd-image-title": "نمایشگاه هنر رنسانس",
+  "eventSection.3rd-image-desc": "مجموعه‌ای از آثار شگفت‌انگیز از دوران رنسانس که هنر و تاریخ استادانه‌ای را به نمایش می‌گذارد",
+
+  "eventSection.4th-image-title": "شاهکارهای هنر مدرن",
+  "eventSection.4th-image-desc": "مجموعه‌ای متنوع از آثار هنری مدرن از برترین هنرمندان و نوآوران جهان",
+
+  "eventSection.5th-image-title": "امپرسیونیسم و فراتر از آن",
+  "eventSection.5th-image-desc": "نمایشگاهی نفس‌گیر از آثار امپرسیونیستی و تأثیر آنها بر دنیای هنر مدرن",
+
+  "eventSection.6th-image-title": "عکاسی در گذر زمان",
+  "eventSection.6th-image-desc": "نمایشگاهی شگفت‌انگیز از تکامل عکاسی از روزهای اولیه تا عصر دیجیتال",
+
+  "eventSection.7th-image-title": "هنر مجسمه و سنگ",
+  "eventSection.7th-image-desc": "نگاهی عمیق به هنر سنگ و مجسمه‌سازی از دوره‌های مختلف تاریخ بشر",
+
+  "eventSection.8th-image-title": "پرتره‌های مشهور گذشته",
+  "eventSection.8th-image-desc": "مجموعه‌ای از پرتره‌های نمادین که تاریخ و دنیای هنر را شکل داده‌اند",
+
+  "eventSection.9th-image-title": "هنر باستانی آسیایی",
+  "eventSection.9th-image-desc": "زیبایی و ظرافت هنر باستانی آسیایی را تجربه کنید که تاریخ فرهنگی غنی را به نمایش می‌گذارد",
+
+  "eventSection-btn": "بیشتر بخوانید",
+
+  "notification-header":"جدیدترین اطلاعیه‌ها",
+  "notification-title":"اطلاعیه تعطیلات",
+
+  "directorateSection-msg": "پیام از میز مدیر",
+  "directorateSection-name": "عمران خان مسعودی",
+  "directorateSection-greeting": "سلام از میز مدیریت !!",
+  "directorateSection-desc": "موزه افغانستان، قدیمی‌ترین و بزرگ‌ترین موزه کشور ما است. موزه ملی افغانستان در سال ۱۹۱۹ در دوران سلطنت پادشاه امان‌الله خان به‌روی عموم گشوده شد. این موزه اولین موزه منطقه آسیا و اقیانوسیه است و نقش رهبری در تعیین سبک جنبش موزه‌ای در این قاره داشته است...",
+  "directorateSection-btn": "بیشتر بخوانید",
+
+  "visitorInfo-btn": "رزرو بلیط",
+  "visitorInfo-main-title": "اطلاعات بازدیدکنندگان",
+  "visitorInfo-closed": "تعطیل در تمام دوشنبه‌ها",
+  "visitorInfo-open-hour": "ساعت‌های کاری",
+  "visitorInfo-open-time": "سه‌شنبه تا یک‌شنبه: ۱۰ صبح تا ۶ عصر",
+
+  "visitorInfo-entry": "هزینه ورود",
+  "visitorInfo-adults": "برای بزرگسالان: ۳۰ افغانی",
+  "visitorInfo-kids": "برای زیر ۱۸ سال: ۲۰ افغانی",
+  "visitorInfo-foreign": "برای اتباع خارجی: ۵۰ افغانی",
+  "visitorInfo-phone-photography": "عکاسی با دوربین تلفن هوشمند: ۴۰ افغانی",
+  "visitorInfo-camera-photography": "عکاسی با دوربین دیجیتال تک لنزی بازتابی: ۶۰ افغانی",
+
+  "visitorInfo-location-title": "موقعیت",
+  "visitorInfo-location": "دارالامان، کابل، افغانستان",
+
+  "visitorInfo-phone-title": "تلفن",
+  "visitorInfo-phone": "۹۲۳۰ ۲۵۲ ۰۲ ۳۹+",
+
+  "visitorInfo-email-title": "ایمیل",
+  "visitorInfo-email": "nationalmuseum.afg@gmail.com",
+
+  "visitorInfo-inquiry": "برای هرگونه پرسش یا اطلاعات مربوط به موزه، لطفاً با میز اطلاعات تماس بگیرید",
+
+  "footer.main-title": "موزه ملی افغانستان",
+  "footer.desc": "۲۰۲۴ موزه ملی افغانستان. تمامی حقوق محفوظ است.",
+  "footer.company-developer": "توسعه یافته توسط",
+  "footer.company-name": "گروه مشاوره آریا دلتا",
+
+  "aboutHistory-main-title": "تاریخچه موزه ما",
+  "aboutHistory-main-desc": "موزه ملی میراث باستانی را حفظ کرده و آثار تاریخی مهم را به نمایش می‌گذارد",
+
+  "titleWithDesc-title": "تاریخچه موزه ملی افغانستان",
+  "titleWithDesc-desc": "تاریخچه غنی موزه ملی افغانستان را کاوش کنید که آثار و گنجینه‌های بی‌زمان را به نمایش می‌گذارد که جوهره گذشته زنده و پویا این ملت را به تصویر می‌کشد. در هر قطعه زیبایی را کشف کنید!",
+
+  "historicalTopics-title": "موضوعات تاریخی",
+  "historicalTopics-1st-img-title": "آثار باستانی افغانستان",
+  "historicalTopics-2nd-img-title": "میراث فرهنگی جاده ابریشم",
+  "historicalTopics-3rd-img-title": "آثار دوران امپراطوری",
+  "historicalTopics-4th-img-title": "احیای میراث فرهنگی",
+
+  "historicalTime-title": "در این زمان تاریخی از ما حمایت کنید",
+  "historicalTime-1st-img-title": "کمک مالی کنید",
+  "historicalTime-1st-img-desc": "با اهدای کمک مالی امروز از مأموریت ما حمایت کنید!",
+  "historicalTime-2nd-img-title": "عضو شوید",
+  "historicalTime-2nd-img-desc": "امروز به ما بپیوندید و از مزایای منحصر به فرد اعضا بهره‌مند شوید!",
+  "historicalTime-3rd-img-title": "درگیر شوید",
+  "historicalTime-3rd-img-desc": "به ما بپیوندید و در حفظ میراث افغانستان مشارکت کنید!",
+  "historicalTime-4th-img-title": "از ما خرید کنید",
+  "historicalTime-4th-img-desc": "اقلام منحصر به فرد را کاوش کنید و از حفظ فرهنگی ما حمایت کنید!",
+
+  "aboutDirectorate-main-title": "پیام از مدیران",
+  "aboutDirectorate-main-desc": "مدیریت‌ها تعهد خود را برای حفظ میراث فرهنگی برای نسل‌های آینده تأیید می‌کنند",
+
+  "director-msg-title": "پیام مدیر",
+  "director-name": "عمره خان مسعودی",
+  "director-name-sub-title": "مدیر، موزه ملی افغانستان",
+  "director-msg-desc-1": "سلام از موزه ملی افغانستان. موزه ملی افغانستان در سال ۱۹۱۹ در دوران سلطنت شاه امان‌الله خان افتتاح شد و اولین موزه در منطقه آسیا-پاسفیک است. در طول دهه‌ها، این موزه مجموعه‌ای گسترده از آثار را جمع‌آوری کرده است که از آثار پیش از تاریخ تا گنجینه‌های جاده ابریشم و امپراتوری‌های باستانی را در بر می‌گیرد.",
+  "director-msg-desc-2": "با وجود چالش‌ها، از جمله غارت و تخریب در طول درگیری‌ها، این موزه همچنان نماد مقاومت است و به حفظ تاریخ این ملت متعهد است. امروزه، این موزه به عنوان یک نماد فرهنگ افغانستان است که دانشمندان، مورخان و بازدیدکنندگان از سراسر جهان را جذب می‌کند.",
+
+  "technicalStaff-main-title": "با تیم حرفه‌ای ما ملاقات کنید",
+  "technicalStaff-main-desc": "با تیم متخصص و متعهد ما آشنا شوید که به حفظ و ترویج میراث فرهنگی ما متعهد هستند",
+
+  "technicalStaff-card-main-title": "کارکنان فنی ما",
+
+  "technicalStaff-1st-card-name": "وقاص محمود",
+  "technicalStaff-1st-card-position": "مهندس ارشد",
+  "technicalStaff-1st-card-desc": "متخصص در تکنولوژی MERN Stack با بیش از 3 سال تجربه در پروژه‌های بزرگ.",
+
+  "technicalStaff-2nd-card-name": "محمد بلال",
+  "technicalStaff-2nd-card-position": "توسعه‌دهنده ارشد ری‌اکت",
+  "technicalStaff-2nd-card-desc": "یک توسعه‌دهنده فرانت‌اند با تخصص در ری‌اکت، جاوا اسکریپت و ReduxToolkit.",
+
+  "technicalStaff-3rd-card-name": "عثمان علی",
+  "technicalStaff-3rd-card-position": "توسعه‌دهنده بک‌اند",
+  "technicalStaff-3rd-card-desc": "متخصص در توسعه بک‌اند با بیش از 3 سال تجربه در پروژه‌های بزرگ.",
+
+  "technicalStaff-4th-card-name": "محمد سعد",
+  "technicalStaff-4th-card-position": "توسعه‌دهنده ری‌اکت",
+  "technicalStaff-4th-card-desc": "متخصص در توسعه ری‌اکت با بیش از 3 سال تجربه در پروژه‌های بزرگ.",
+
+  "technicalStaff-5th-card-name": "وقاص محمود",
+  "technicalStaff-5th-card-position": "مدیر پروژه",
+  "technicalStaff-5th-card-desc": "متخصص در مدیریت پروژه با بیش از 3 سال تجربه در پروژه‌های بزرگ.",
+
+  "technicalStaff-6th-card-name": "جان دو",
+  "technicalStaff-6th-card-position": "مهندس ارشد",
+  "technicalStaff-6th-card-desc": "متخصص در مهندسی مکانیک با بیش از 15 سال تجربه در پروژه‌های بزرگ.",
+
+  "technicalStaff-card-btn": "تماس",
+
+  "technicalStaff-team-main-title": "بخش تیم فنی ما شوید",
+  "technicalStaff-team-sub-title": "ما به نوآوری و استعداد اهمیت می‌دهیم. رزومه خود را ارسال کنید و با هم آینده را شکل دهیم.",
+  "technicalStaff-team-input": "آدرس ایمیل شما",
+  "technicalStaff-team-btn": "اکنون درخواست دهید",
+  "technicalStaff-team-last-sentence": "بیایید با هم رشد کنیم! داده‌های شما با ما امن است.",
+
+  "regAndPol-main-title": "مقررات و سیاست‌های ما",
+  "regAndPol-main-desc": "به مقررات و سیاست‌های ما نگاهی بیندازید که تجربه‌ای ایمن و غنی را برای تمام بازدیدکنندگان تضمین می‌کند",
+
+  "regAndPol-imp-pol-main-title": "سیاست‌های مهم",
+
+  "regAndPol-imp-pol-1st-card-title": "سیاست حفظ حریم خصوصی",
+  "regAndPol-imp-pol-1st-card-desc": "سیاست حفظ حریم خصوصی ما توضیح می‌دهد که چگونه اطلاعات شخصی شما را جمع‌آوری، استفاده و محافظت می‌کنیم.",
+
+  "regAndPol-imp-pol-2nd-card-title": "شرایط استفاده از خدمات",
+  "regAndPol-imp-pol-2nd-card-desc": "این شرایط استفاده شما از خدمات ما را تنظیم کرده و حقوق و مسئولیت‌های شما را توضیح می‌دهد.",
+
+  "regAndPol-imp-pol-3rd-card-title": "سیاست بازپرداخت",
+  "regAndPol-imp-pol-3rd-card-desc": "با فرآیند بازپرداخت ما، شرایط واجد شرایط بودن و نحوه درخواست بازپرداخت آشنا شوید.",
+
+  "regAndPol-imp-pol-4th-card-title": "سیاست کوکی",
+  "regAndPol-imp-pol-4th-card-desc": "این سیاست توضیح می‌دهد که چگونه ما از کوکی‌ها و فناوری‌های مشابه در وب‌سایت خود استفاده می‌کنیم.",
+
+  "regAndPol-freq-Ques-main-Title": "سوالات متداول",
+
+  "regAndPol-freq-Ques-1": "چگونه می‌توانم به شرایط کامل دسترسی پیدا کنم؟",
+  "regAndPol-freq-Ques-1-answer": "می‌توانید شرایط کامل را در صفحه شرایط استفاده از خدمات مشاهده کنید.",
+  "regAndPol-freq-Ques-2": "اگر در مورد حریم خصوصی نگرانی دارم چه باید بکنم؟",
+  "regAndPol-freq-Ques-2-answer": "لطفاً برای هرگونه نگرانی یا سوالات مربوط به حریم خصوصی با تیم پشتیبانی ما تماس بگیرید.",
+  "regAndPol-freq-Ques-3": "چگونه درخواست بازپرداخت دهم؟",
+  "regAndPol-freq-Ques-3-answer": "برای درخواست بازپرداخت، لطفاً به صفحه سیاست بازپرداخت ما مراجعه کرده و دستورالعمل‌های دقیق را مطالعه کنید.",
+  "regAndPol-freq-Ques-4": "چه نوع کوکی‌هایی را استفاده می‌کنید؟",
+  "regAndPol-freq-Ques-4-answer": "ما از کوکی‌های ضروری برای عملکرد وب‌سایت و از کوکی‌های تحلیلی برای بهبود تجربه کاربری استفاده می‌کنیم.",
+
+  "eventsPage-main-title": "کاوش رویدادهای ما",
+  "eventsPage-main-desc":"مجموعه‌ای از رویدادهای هیجان‌انگیز که فرهنگ و تاریخ را جشن می‌گیرد را کشف کنید",
+
+  "eventsPage-up-com-events-main-title": "رویدادهای آینده",
+
+  "eventsPage-up-com-events-1st-title": "نمایشگاه آثار تاریخی",
+  "eventsPage-up-com-events-1st-desc": "نمایش آثار باستانی مانند مجموعه طلای بلخ، بقایای بودایی گندهارا، و قطعاتی از امپراتوری کوشان",
+
+  "eventsPage-up-com-events-2nd-title": "برنامه‌ها و کارگاه‌های آموزشی",
+  "eventsPage-up-com-events-2nd-desc": "رویدادهای آموزشی که محققان، باستان‌شناسان و تاریخ‌شناسان را دعوت می‌کنند تا کارگاه‌هایی برای دانشجویان و پژوهشگران برگزار کنند",
+
+  "eventsPage-up-com-events-3rd-title": "رویدادها و جشنواره‌های فرهنگی",
+  "eventsPage-up-com-events-3rd-desc": "موزه اغلب جشنواره‌های فرهنگی برای بزرگداشت میراث افغانستان برگزار می‌کند، از جمله نوروز (سال نو فارسی) که در آن صنایع دستی، موسیقی و غذاهای سنتی به نمایش گذاشته می‌شوند",
+
+  "eventsPage-up-com-events-4th-title": "نمایشگاه هنرها و صنایع دستی افغانستان",
+  "eventsPage-up-com-events-4th-desc": "نمایشگاهی پرجنب‌وجوش برای بزرگداشت هنرمندان و صنعتگران محلی افغانستان",
+
+  "eventsPage-up-com-events-btn": "بیشتر بدانید",
+
+  "eventsPage-past-events-main-title": "رویدادهای گذشته",
+
+  "eventsPage-past-events-1st-title": "تور تاریخی موزه",
+  "eventsPage-past-events-1st-desc": "یک تور راهنمایی شده از موزه ملی افغانستان",
+
+  "eventsPage-past-events-2nd-title": "نمایشگاه نسخه‌های خطی تاریخی",
+  "eventsPage-past-events-2nd-desc": "مجموعه‌ای نادر از نسخه‌های خطی تاریخی افغانستان به نمایش گذاشته شده است",
+
+  "eventsPage-past-events-3rd-title": "نمایشگاه هنر و آثار هنرمندان محلی",
+  "eventsPage-past-events-3rd-desc": "موزه آثار هنری افغانستان در زمینه‌های میراث، هویت و تأثیرات جنگ را به نمایش می‌گذارد",
+
+  "eventsPage-past-events-btn": "جزئیات را ببینید",
+
+  "eventsPage-update-main-title": "به‌روز بمانید!",
+  "eventsPage-update-desc": "برای دریافت به‌روزرسانی‌ها در مورد رویدادهای آینده، در خبرنامه ما مشترک شوید",
+  "eventspage-input-placeholder": "ایمیل خود را وارد کنید...",
+  "eventspage-update-btn": "اشتراک",
+
+  "articlesPage-main-title": "جهان موزه‌ها را کشف کنید",
+  "articlesPage-main-desc": "به آخرین داستان‌ها، روندها و نوآوری‌های دنیای موزه‌ها بپردازید",
+
+  "articlesPage-title": "مقالات برگزیده",
+
+  "articlesPage-1st-card-title": "تحول هنر در طول تاریخ",
+  "articlesPage-1st-card-desc": "بررسی کنید که چگونه هنر در طول قرن‌ها تغییر کرده است و از شاهکارهای باستانی چه می‌آموزیم",
+  "articlesPage-2nd-card-title": "پایداری در موزه‌های مدرن",
+  "articlesPage-2nd-card-desc": "چگونه موزه‌ها در سراسر جهان راه‌حل‌های دوست‌دار محیط زیست را برای حفظ فرهنگ و حفاظت از سیاره زمین اتخاذ می‌کنند",
+  "articlesPage-3rd-card-title": "نقش فناوری در موزه‌ها",
+  "articlesPage-3rd-card-desc": "کشف کنید که چگونه موزه‌ها از فناوری استفاده می‌کنند تا تجربیات تعاملی و غوطه‌ورانه‌ای ارائه دهند",
+  "articlesPage-4th-card-title": "تمدن‌های باستانی به نمایش درآمده",
+  "articlesPage-4th-card-desc": "سفری از طریق نمایشگاه‌هایی که بقایا و داستان‌های تمدن‌های باستانی را به نمایش می‌گذارند",
+  "articlesPage-5th-card-title": "میراث فرهنگی و حفظ آن",
+  "articlesPage-5th-card-desc": "چگونه موزه‌ها نقش حیاتی در حفظ میراث فرهنگی برای نسل‌های آینده ایفا می‌کنند",
+  "articlesPage-6th-card-title": "تورهای مجازی موزه: عصر جدید",
+  "articlesPage-6th-card-desc": "رشد تورهای مجازی و چگونگی دسترسی به موزه‌ها برای همه، در هر مکان",
+
+  "articlesPage-card-btn": "بیشتر بخوانید",
+  "articlesPage-load-more-btn": "موارد بیشتر",
+  "gallery-home-heading":"گالری موزه",
+
+  "galleryPhotos-main-title": "عکس‌ها در گالری ما",
+  "galleryPhotos-main-desc":"از گالری ما بازدید کنید تا تصاویری جذاب که میراث غنی ما را به نمایش می‌گذارد، تجربه کنید",
+
+  "galleryPhotos-title": "گالری خلاقانه ما",
+  "galleryPhotos-desc": "مجموعه‌ای از تصاویر خیره‌کننده را کاوش کنید که جوهره خلاقیت و لحظات الهام‌بخش را به تصویر می‌کشند. به درون شیرجه بزنید و زیبایی را در هر فریم کشف کنید!",
+
+  "galleryPhotos-gallery-view-title": "نمای گالری",
+  "galleryPhotos-gallery-view-1st-img-title": "نمایش هنر بی‌زمان",
+  "galleryPhotos-gallery-view-2nd-img-title": "معماری باشکوه اسلامی",
+
+  "galleryPhotos-gallery-coll-main-title": "مجموعه گالری",
+
+  "galleryPhotos-gallery-coll-1st-img-title": "مجسمه سنگی با حکاکی‌های پیچیده",
+  "galleryPhotos-gallery-coll-1st-img-desc": "نمایش هنر باستانی و میراث فرهنگی",
+
+  "galleryPhotos-gallery-coll-2nd-img-title": "پرچم ملی افغانستان",
+  "galleryPhotos-gallery-coll-2nd-img-desc": "تصویر پرچم ملی افغانستان را نشان می‌دهد که در برابر آسمان نیمه‌ابری در حال اهتزاز است",
+
+  "galleryPhotos-gallery-coll-3rd-img-title": "مجسمه سنگی با حکاکی‌های پیچیده",
+  "galleryPhotos-gallery-coll-3rd-img-desc": "نمایش هنر باستانی و میراث فرهنگی",
+
+  "galleryVideos-main-title": "ویدیوها در مجموعه ما",
+  "galleryVideos-main-desc":"مجموعه‌ای از ویدیوها را کشف کنید که تاریخ و فرهنگ ما را زنده می‌کند",
+
+  "galleryVideos-title": "ویدیوهای الهام‌بخش ما",
+  "galleryVideos-desc": "مجموعه ویدیویی اختصاصی ما را کشف کنید که داستان‌ها و لحظاتی را به تصویر می‌کشد که شما را الهام و درگیر خواهد کرد. به دنیای خلاقیت و تخیل شیرجه بزنید!",
+
+  "galleryVideos-featured-main-title": "ویدیوهای ویژه",
+
+  "galleryVideos-featured-1st-video-title": "سفر خلاقانه",
+  "galleryVideos-featured-1st-video-desc": "مسیر نوآوری هنری را از طریق این مستند جذاب دنبال کنید",
+
+  "galleryVideos-featured-2nd-video-title": "روندهای نوآورانه طراحی",
+  "galleryVideos-featured-2nd-video-desc": "جدیدترین روندهای طراحی را در این ویدیوی بصیرتی کاوش کنید",
+
+  "galleryVideos-featured-3rd-video-title": "خلق شاهکارها",
+  "galleryVideos-featured-3rd-video-desc": "شاهد تکامل شاهکارهای هنری بی‌زمان باشید",
+
+  "gallerryVideos-more-videos-main-title": "ویدیوهای بیشتر",
+  "gallerryVideos-more-video-title": "موزه ملی افغانستان",
+  "gallerryVideos-more-video-desc": "حفظ میراث غنی افغانستان",
+
+  "contactPage-main-title": "با ما تماس بگیرید",
+  "contactPage-main-desc":"ما از سوالات شما استقبال می‌کنیم و منتظر ارتباط با شما هستیم",
+
+  "contactPage-info-title": "اطلاعات تماس",
+  "contactPage-info-phone": "تلفن",
+  "contactPage-info-phone-no": "+۹۳۲۰۲۵۲۰۳۲۹",
+  "contactPage-info-email": "ایمیل",
+  "contactPage-info-email-value": "nationalmuseum.afg@gmail.com",
+  "contactPage-info-location": "مکان",
+  "contactPage-info-location-value": "در الامان، کابل، افغانستان",
+  "contactPage-msg-main-title": "پیامی برای ما بفرستید",
+  "contactPage-input-name-placeholder": "نام شما",
+  "contactPage-input-email-placeholder": "ایمیل شما",
+  "contactPage-input-msg-placeholder": "پیام شما برای ما",
+  "contactPage-msg-btn": "ارسال",
+  "contactPage-map-main-title": "ما را ببینید",
+
+  "home-banner.slider-ist.heading": "توسعه مناسب",
+  "home-banner.slider-ist.description": "نیروی محرکه پشت سر سرمایه گذاری افغانستان را کشف کنید: چشم انداز ما، تیم ما، تعهد ما",
+  "home-banner.slider-2nd.heading": "بخش معدنی",
+  "home-banner.slider-2nd.description": "ما به افتخار ملی و تخصص خود می‌بالیم تا خدمات معدنی قابل اعتماد و مسئولانه‌ای ارائه دهیم",
+  "home-banner.slider-3rd.heading": "بخش انرژی",
+  "home-banner.slider-3rd.description": "آینده افغانستان را با راه‌حل‌های انرژی نوآورانه و پایدار به حرکت در می‌آوریم",
+  "home-banner.slider-4th.heading": "اخبار و رسانه",
+  "home-banner.slider-4th.description": "به‌روزترین اخبار، فرصت‌های شغلی و بینش‌های شرکتی را اینجا مشاهده کنید",
+  "home-banner.slider-5th.heading": "بنیان‌گذاران",
+  "home-banner.slider-5th.description": "با بینندگان پشت سر سرمایه گذاری در افغانستان ملاقات کنید: بنیانگذاران ما، میراث ما، انگیزه ما",
+  "home-banner.redirect-btn": "ادامه مطلب",
+
+  "home-about.main-heading": "درباره ما",
+  "home-about.sub-heading": "هر آنچه را که باید در مورد افغان اینوست بدانید بیابید"
+}

@@ -1,0 +1,417 @@
+{
+    "header.main-heading": "Afghanistan National Musem",
+    
+    "header.first-menu": "Home",
+    "header.second-menu": "About Our Museum",
+    "header.third-menu": "Exhibitions",
+    "header.fourth-menu": "Events",
+    "header.fifth-menu": "Articles",
+    "header.sixth-menu": "Gallery",
+    "header.seventh-menu": "Contact Us",
+
+    "header.second-sub-menu-1": "History of the Museum",
+    "header.second-sub-menu-2": "Directorates",
+    "header.second-sub-menu-3": "Technical Staff",
+    "header.second-sub-menu-4": "Regulations and Policies",
+
+    "header.third-sub-menu-1": "Islamic Era Exhibition",
+    "header.third-sub-menu-2": "Bronze Age Exhibition",
+    "header.third-sub-menu-3": "Aynak Copper Exhibition",
+    "header.third-sub-menu-4": "Ai Khanum",
+    "header.third-sub-menu-5": "Thousand Cities Exhibition",
+    "header.third-sub-menu-6": "Car Exhibition",
+
+
+    "header.sixth-sub-menu-1": "Photos",
+    "header.sixth-sub-menu-2": "Videos",
+
+    "input.search-field":"Search Here",
+
+    "hero.1st-image-title":"Discover Ancient Artifacts",
+    "hero.1st-image-desc":"Explore the rich history and culture preserved in our museum. Each exhibit tells a unique story of the past.",
+    "hero.1st-image-btn":"Learn More",
+
+    "hero.2nd-image-title":"A Journey Through Time",
+    "hero.2nd-image-desc":"From prehistoric relics to modern art, our collection spans centuries of human creativity and ingenuity.",
+    "hero.2nd-image-btn":"Start Your Tour",
+
+    "hero.3rd-image-title":"Curated Collections",
+    "hero.3rd-image-desc":"Our collections are carefully curated to provide insight into the art, science, and history of various cultures.",
+    "hero.3rd-image-btn":"Explore Now",
+
+    "hero.4th-image-title":"Interactive Exhibits",
+    "hero.4th-image-desc":"Get hands-on with our interactive exhibits that bring history to life through immersive experiences.",
+    "hero.4th-image-btn":"Experience Now",
+
+    "hero.5th-image-title":"Family-Friendly Tours",
+    "hero.5th-image-desc":"Join our family-friendly tours designed to engage visitors of all ages with fascinating stories and fun facts.",
+    "hero.5th-image-btn":"Book a Tour",
+
+    "hero.6th-image-title":"Art and Innovation",
+    "hero.6th-image-desc":"Discover the intersection of art and technology with our cutting-edge exhibits on digital and modern art.",
+    "hero.6th-image-btn":"Explore Art",
+
+    "hero.7th-image-title":"Hidden Treasures",
+    "hero.7th-image-desc":"Discover hidden treasures in our special exhibits showcasing rare artifacts from ancient civilizations.",
+    "hero.7th-image-btn":"Uncover Now",
+
+    "hero.8th-image-title":"Explore Modern Wonders",
+    "hero.8th-image-desc":"Witness the wonders of modern-day craftsmanship and innovation with our contemporary art collection.",
+    "hero.8th-image-btn":"View Collection",
+
+   "eventspage-email-error": "Please enter a valid email address.",
+
+
+    "musemuInfoBar.title":"Discover two million years of human history and culture",
+    "musemuInfoBar.free-entry":"free entry",
+    "musemuInfoBar.book-online":"Book Online",
+    "musemuInfoBar.open-today":"Open today: 10.00–17.00",
+    "musemuInfoBar.last-entry":"Last entry: 12.7",
+
+    "museumVisits-main-title":"Visit the Museum",
+
+    "museumVisits-1st-image-title":"Plan Your Visit",
+    "museumVisits-1st-image-desc":"Book tickets and plan your day including exhibitions, facilities, access, food and travel",
+    
+    "museumVisits-2nd-image-title":"Museum map",
+    "museumVisits-2nd-image-desc":"Navigate the Museum with ease, using our floor-by-floor plan and discover what not to miss",
+    
+    "museumVisits-3rd-image-title":"Galleries",
+    "MuseumVisits-3rd-image-desc":"Walk through two million years of history and culture across more than 50 galleries",
+    
+    "museumVisits-4th-image-title":"Family visits",
+    "museumVisits-4th-image-desc":"From family facilities to activities and events, discover how to make the most of your day at the Museum",
+
+    "aboutMuseum-title":"Experience the Museum",
+    "aboutMuseum.main-title":"Arts Globally Covered",
+    "aboutMuseum-desc":"The largest museum across Afghanistan and boasts exquisite collections of armor, antiques, ornaments, skeleton, fossils, mummies, beautiful Mughal paintings",
+    "aboutMuseum-btn":"More Videos",
+
+
+    "exhibition-title": "Explore Our Exhibitions",
+    "exhibition-description": "Discover captivating exhibitions that showcase art, culture, and history.",
+    "upcoming-exhibitions": "Upcoming Exhibitions",
+    "past-exhibitions": "Past Exhibitions",
+
+    "eventSection-main-title":"Museum Events",
+    
+    "eventSection.1st-image-title":"Art and History Expo",
+    "eventSection.1st-image-desc":"Discover the rich history of art through this immersive exhibition of classic and modern art pieces",
+    
+    "eventSection.2nd-image-title":"Ancient Egypt Showcase",
+    "eventSection.2nd-image-desc":"Explore the world of ancient Egypt, featuring artifacts, sculptures, and historical treasures",
+    
+    "eventSection.3rd-image-title":"Renaissance Art Exhibition",
+    "eventSection.3rd-image-desc":"A collection of stunning works from the Renaissance period, showcasing masterful art and history",
+    
+    "eventSection.4th-image-title":"Modern Art Masterpieces",
+    "eventSection.4th-image-desc":"A diverse collection of modern art pieces from the world's top artists and innovators",
+    
+    "eventSection.5th-image-title":"Impressionism and Beyond",
+    "eventSection.5th-image-desc":"A breathtaking exhibition of impressionist works and their impact on the modern art world",
+    
+    "eventSection.6th-image-title":"Photography Through the Ages",
+    "eventSection.6th-image-desc":"A stunning showcase of photography's evolution from its early days to the digital age",
+    
+    "eventSection.7th-image-title":"Sculpture and Stone Art",
+    "eventSection.7th-image-desc":"An in-depth look at stone art and sculpture from different periods of human history",
+    
+    "eventSection.8th-image-title":"Famous Portraits of the Past",
+    "eventSection.8th-image-desc":"A collection of iconic portrait art that has shaped history and the art world as we know it",
+    
+    "eventSection.9th-image-title":"Ancient Asian Art",
+    "eventSection.9th-image-desc":"Experience the beauty and intricacy of ancient Asian art, showcasing a rich cultural history",
+
+    "eventSection-btn":"Read More",
+
+    "notification-header":"Latest Notifications",
+    "notification-title":"Holiday Notification",
+    
+
+    "directorateSection-msg":"Message from Director's Desk",
+    "directorateSection-name":"Omara Khan Massoudi",
+    "directorateSection-greeting":"Greetings From The Director’s Desk !!",
+    "directorateSection-desc":"Afghanistan Museum is the oldest and largest museum in our country. The Afghan National Museum was opened in 1919 during the reign of King Amanullah Khan, the Afghanistan Museum is the first Museum in the Asia-Pacific region and has played the role of a leader in setting the tone for the museum movement in the continent...",
+    "directorateSection-btn":"Read More",
+
+
+    "visitorInfo-btn":"book a ticket",
+    "visitorInfo-main-title":"Visitor's Information",
+    "visitorInfo-closed":"All Mondays Closed",
+    "visitorInfo-open-hour":"Opening Hour",
+    "visitorInfo-open-time":"Tuesday-Sunday: 10AM-6PM",
+    
+    "visitorInfo-entry":"Entry Fee",
+    "visitorInfo-adults":"For Adults: AFN 30/-",
+    "visitorInfo-kids":"For Below 18 Years: AFN 20/",
+    "visitorInfo-foreign":"For Foreign Nationals: AFN 50/-",
+    "visitorInfo-phone-photography":"Photography with Smart Phone Camera: AFN 40/-",
+    "visitorInfo-camera-photography":"Photography with DSLR Camera: AFN 60/-",
+    
+    "visitorInfo-location-title":"Location",
+    "visitorInfo-location":"Darul-Aman, Kabul, Afghanistan",
+    
+    "visitorInfo-phone-title":"Phone",
+    "visitorInfo-phone":"+93 20 252 0329",
+    
+    "visitorInfo-email-title":"Email",
+    "visitorInfo-email":"nationalmuseum.afg@gmail.com",
+    
+    "visitorInfo-inquiry":"For any query or information regarding the museum, please contact the Information Desk",
+
+
+    "footer.main-title":"National Museum Afghanistan",
+
+    "footer.desc": "2024 National Museum Afghanistan. All rights reserved.",
+    "footer.company-developer": "Powered by",
+    "footer.company-name": "Aria Delta Consulting Group",
+
+
+
+    "aboutHistory-main-title":"History of Our Museum",
+    "aboutHistory-main-desc":"The National Museum preserves ancient heritage and showcases key historical artifacts",
+
+    "titleWithDesc-title":"History of the National Museum of Afghanistan",
+    "titleWithDesc-desc":"Explore the National Museum of Afghanistan’s rich history,showcasing timeless artifacts and treasures that capture the essence of the nation's vibrant past. Discover beauty in every piece!",
+
+    "historicalTopics-title":"Historical topics",
+    "historicalTopics-1st-img-title":"Ancient Afghan Artifacts",
+    "historicalTopics-2nd-img-title":"Silk Road Cultural Legacy",
+    "historicalTopics-3rd-img-title":"Dynastic Empire-Era Relics",
+    "historicalTopics-4th-img-title":"Cultural Heritage Revival",
+
+    "historicalTime-title":"Help Support Us During this Historical Time",
+    "historicalTime-1st-img-title":"Make a Donation",
+    "historicalTime-1st-img-desc":"Support our mission by making a meaningful donation today!",
+    "historicalTime-2nd-img-title":"Become a Member",
+    "historicalTime-2nd-img-desc":"Join us today and enjoy exclusive member benefits!",
+    "historicalTime-3rd-img-title":"Get Involved",
+    "historicalTime-3rd-img-desc":"Join us and contribute to preserving Afghanistan’s heritage!",
+    "historicalTime-4th-img-title":"Shop from Us",
+    "historicalTime-4th-img-desc":"Explore unique items and support our cultural preservation!",
+
+
+    "aboutDirectorate-main-title":"Message from Directorates",
+    "aboutDirectorate-main-desc":"The Directorates reaffirm their commitment to preserving cultural heritage for future generations",
+
+    "director-msg-title":"Director's Message",
+    "director-name":"Omara Khan Massoudi",
+    "director-name-sub-title":"Director, National Museum Afghanistan",
+    "director-msg-desc-1":"Greetings from National Museum Afghanistan. The Afghan National Museum was opened in 1919 during the reign of King Amanullah Khan and is the first museum in the Asia-Pacific region. Over the decades, it has amassed an extensive collection of artifacts, ranging from prehistoric relics to treasures from the Silk Road and ancient empires.",
+    "director-msg-desc-2":"Despite facing challenges, including looting and destruction during conflicts, the museum remains a symbol of resilience, dedicated to safeguarding the nation's history. Today, it stands as a beacon of Afghan culture, attracting scholars, historians, and visitors from around the world.",
+
+
+    "technicalStaff-main-title":"Meet Our Professional Team",
+    "technicalStaff-main-desc":"Meet our dedicated team of professionals committed to preserving and promoting our cultural heritage",
+    
+    "technicalStaff-card-main-title":"Our Technical Staff",
+
+    "technicalStaff-1st-card-name":"Waqas Mehmood",
+    "technicalStaff-1st-card-position":"Lead Engineer",
+    "technicalStaff-1st-card-desc":"An expert in MERN Stack Technology with over 3 years of experience in large-scale projects.",
+    
+    "technicalStaff-2nd-card-name":"Muhammad Bilal",
+    "technicalStaff-2nd-card-position":"Senior React Developer",
+    "technicalStaff-2nd-card-desc":"A frontend developer specializing in React, JavaScript, and ReduxToolkit.",
+
+    "technicalStaff-3rd-card-name":"Usman Ali",
+    "technicalStaff-3rd-card-position":"Backend Developer",
+    "technicalStaff-3rd-card-desc":"An expert in Backend Development with over 3 years of experience in large-scale projects.",
+    "technicalStaff-4th-card-name":"Muhammad Saad",
+    "technicalStaff-4th-card-position":"React Developer",
+    "technicalStaff-4th-card-desc":"An expert in React Developmen with over 3 years of experience in large-scale projects.",
+    "technicalStaff-5th-card-name":"Waqas Mehmood",
+    "technicalStaff-5th-card-position":"Project Manager",
+    "technicalStaff-5th-card-desc":"An expert in Project Management with over 3 years of experience in large-scale projects.",
+    "technicalStaff-6th-card-name":"John Doe",
+    "technicalStaff-6th-card-position":"Lead Engineer",
+    "technicalStaff-6th-card-desc":"An expert in mechanical engineering with over 15 years of experience in large-scale projects.",
+    
+    "technicalStaff-card-btn":"Contact",
+
+    "technicalStaff-team-main-title":"Be Part of Our Tech Team",
+    "technicalStaff-team-sub-title":"We value innovation and talent. Submit your resume and let’s shape the future together.",
+    "technicalStaff-team-input":"Your Email Address",
+    "technicalStaff-team-btn":"Apply Now",
+    "technicalStaff-team-last-sentence":"Let’s grow together! Your data is secure with us.",
+
+
+    "regAndPol-main-title":"Regulations and Policies",
+    "regAndPol-main-desc":"Explore our regulations and policies that ensure a safe and enriching experience for all visitors",
+    
+    "regAndPol-imp-pol-main-title":"Our Regulations and Policies",
+    
+    "regAndPol-imp-pol-1st-card-title":"Privacy Policy",
+    "regAndPol-imp-pol-1st-card-desc":"Our privacy policy outlines how we collect, use, and protect your personal information.",
+
+    "regAndPol-imp-pol-2nd-card-title":"Terms of Service",
+    "regAndPol-imp-pol-2nd-card-desc":"These terms govern your use of our services and outline your rights and responsibilities.",
+
+    "regAndPol-imp-pol-3rd-card-title":"Refund Policy",
+    "regAndPol-imp-pol-3rd-card-desc":"Learn about our refund process, eligibility, and how to request a refund.",
+    
+    "regAndPol-imp-pol-4th-card-title":"Cookie Policy",
+    "regAndPol-imp-pol-4th-card-desc":"This policy explains how we use cookies and similar technologies on our website.",
+
+    "regAndPol-freq-Ques-main-Title":"Frequently Asked Questions",
+    
+    "regAndPol-freq-Ques-1":"How can I access the full terms and conditions?",
+    "regAndPol-freq-Ques-1-answer":"You can view the full terms and conditions on our Terms of Service page.",
+    "regAndPol-freq-Ques-2":"What should I do if I have concerns about my privacy?",
+    "regAndPol-freq-Ques-2-answer":"Please contact our support team for any privacy-related concerns or questions.",
+    "regAndPol-freq-Ques-3":"How do I request a refund?",
+    "regAndPol-freq-Ques-3-answer":"To request a refund, please visit our Refund Policy page for detailed instructions.",
+    "regAndPol-freq-Ques-4":"What types of cookies do you use?",
+    "regAndPol-freq-Ques-4-answer":"We use essential cookies to operate our website and analytics cookies to improve user experience.",
+
+
+    "eventsPage-main-title":"Explore Our Events",
+    "eventsPage-main-desc":"Discover a variety of exciting events that celebrate culture and history",
+    
+    "eventsPage-up-com-events-main-title":"Upcoming Events",
+    
+    "eventsPage-up-com-events-1st-title":"Exhibitions of Historical Artifacts",
+    "eventsPage-up-com-events-1st-desc":"Showcasing ancient artifacts, such as the Bactrian Gold collection, Gandharan Buddhist relics, and pieces from the Kushan Empire",
+
+    "eventsPage-up-com-events-2nd-title":"Educational Programs and Workshops",
+    "eventsPage-up-com-events-2nd-desc":"Educational events that invite scholars, archaeologists, and historians to conduct workshops for students and researchers",
+
+    "eventsPage-up-com-events-3rd-title":"Cultural Events and Festivals",
+    "eventsPage-up-com-events-3rd-desc":"The museum often hosts cultural festivals celebrating Afghan heritage, including Nowruz (Persian New Year), where traditional crafts, music, and food are showcased",
+
+    "eventsPage-up-com-events-4th-title":"Afghan Arts and Crafts Fair",
+    "eventsPage-up-com-events-4th-desc":"A vibrant fair celebrating local Afghan artists and craftspeople",
+
+    "eventsPage-up-com-events-btn":"Learn More",
+    
+    "eventsPage-past-events-main-title":"Past Events",
+
+    "eventsPage-past-events-1st-title":"Historical Museum Tour",
+    "eventsPage-past-events-1st-desc":"A guided tour of the National Museum of Afghanistan",
+
+    "eventsPage-past-events-2nd-title":"Historic Manuscripts Exhibition",
+    "eventsPage-past-events-2nd-desc":"A rare collection of historic Afghan manuscripts on display",
+
+    "eventsPage-past-events-3rd-title":"Art Exhibitions and Local Artist Showcases",
+    "eventsPage-past-events-3rd-desc":"The museum exhibits Afghan art on heritage, identity, and conflict",
+
+    "eventsPage-past-events-btn":"View Details",
+
+    "eventsPage-update-main-title":"Stay Updated!",
+    "eventsPage-update-desc":"Subscribe to our newsletter to receive updates about upcoming events",
+    "eventspage-input-placeholder":"Enter your Email...",
+    "eventspage-update-btn":"Subscribe",
+
+    "articlesPage-main-title":"Discover the World of Museums",
+    "articlesPage-main-desc":"Dive into the latest stories, trends, and innovations from the museum world",
+
+    "articlesPage-title":"Featured Articles",
+
+    "articlesPage-1st-card-title":"The Evolution of Art Through History",
+    "articlesPage-1st-card-desc":"Explore how art has transformed over centuries and what we can learn from ancient masterpieces",
+    "articlesPage-2nd-card-title":"Sustainability in Modern Museums",
+    "articlesPage-2nd-card-desc":"How museums around the world are adopting eco-friendly solutions to preserve culture while protecting the planet",
+    "articlesPage-3rd-card-title":"The Role of Technology in Museums",
+    "articlesPage-3rd-card-desc":"Discover how museums are leveraging technology to offer interactive and immersive experiences",
+    "articlesPage-4th-card-title":"Ancient Civilizations on Display",
+    "articlesPage-4th-card-desc":"A journey through exhibitions that showcase the remains and stories of ancient civilizations",
+    "articlesPage-5th-card-title":"Cultural Heritage and Preservation",
+    "articlesPage-5th-card-desc":"How museums play a vital role in preserving cultural heritage for future generations",
+    "articlesPage-6th-card-title":"Virtual Museum Tours: A New Era",
+    "articlesPage-6th-card-desc":"The rise of virtual tours and how they’re making museums accessible to everyone, anywhere",
+
+    "articlesPage-card-btn":"Read More",
+    "articlesPage-load-more-btn":"Load More",
+
+    "gallery-home-heading":"Museum Gallery",
+
+    "galleryPhotos-main-title":"Photos In Our Gallery",
+    "galleryPhotos-main-desc":"Browse through our gallery to experience captivating images that showcase our rich heritage",
+
+    "galleryPhotos-title":"Our Creative Gallery",
+    "galleryPhotos-desc":"Explore our collection of stunning visuals, capturing the essence of creativity and moments that inspire. Dive in and discover beauty in every frame!",
+
+    "galleryPhotos-gallery-view-title":"Gallery View",
+    "galleryPhotos-gallery-view-1st-img-title":"Timeless Art Display",
+    "galleryPhotos-gallery-view-2nd-img-title":"Majestic Islamic Architecture",
+
+    "galleryPhotos-gallery-coll-main-title":"Gallery Collection",
+    
+    "galleryPhotos-gallery-coll-1st-img-title":"Intricately Carved Stone Deity",
+    "galleryPhotos-gallery-coll-1st-img-desc":"Showcasing ancient artistry and cultural heritage",
+
+    "galleryPhotos-gallery-coll-2nd-img-title":"Afghanistan National Flag",
+    "galleryPhotos-gallery-coll-2nd-img-desc":"The image shows Afghanistan's national flag waving against a partly cloudy sky",
+    
+    "galleryPhotos-gallery-coll-3rd-img-title":"Intricately Carved Stone Deity",
+    "galleryPhotos-gallery-coll-3rd-img-desc":"Showcasing ancient artistry and cultural heritage",
+
+
+    "galleryVideos-main-title":"Videos in Our Collection",
+    "galleryVideos-main-desc":"Explore our collection of videos that bring our history and culture to life",
+
+    "galleryVideos-title":"Our Inspiring Videos",
+    "galleryVideos-desc":"Discover our exclusive video collection, capturing stories and moments that will inspire and engage you. Dive into a world of creativity and imagination!",
+
+    "galleryVideos-featured-main-title":"Featured Videos",
+    
+    "galleryVideos-featured-1st-video-title":"Creative Journey",
+    "galleryVideos-featured-1st-video-desc":"Follow the path of artistic innovation through this captivating documentary",
+
+    "galleryVideos-featured-2nd-video-title":"Innovative Design Trends",
+    "galleryVideos-featured-2nd-video-desc":"Explore the latest design trends in this insightful video",
+
+    "galleryVideos-featured-3rd-video-title":"Masterpiece Creations",
+    "galleryVideos-featured-3rd-video-desc":"Witness the evolution of timeless artistic masterpieces",
+
+    "gallerryVideos-more-videos-main-title":"More Videos",
+    "gallerryVideos-more-video-title":"Afghanistan National Museum",
+    "gallerryVideos-more-video-desc":"Preserving Afghanistan's rich heritage",
+
+
+    "contactPage-main-title":"Get in Touch With Us",
+    "contactPage-main-desc":"We welcome your inquiries and look forward to connecting with you",
+
+    "contactPage-info-title":"Contact Information",
+    "contactPage-info-phone":"Phone",
+    "contactPage-info-phone-no":"+93202520329",
+    "contactPage-info-email":"Email",
+    "contactPage-info-email-value":"nationalmuseum.afg@gmail.com",
+    "contactPage-info-location":"Location",
+    "contactPage-info-location-value":"Darul-Aman, Kabul, Afghanistan",
+
+    "contactPage-msg-main-title":"Send Us a Message",
+    "contactPage-input-name-placeholder":"Your Name",
+    "contactPage-input-email-placeholder":"Your Email",
+    "contactPage-input-msg-placeholder":"Your Message for Us",
+    "contactPage-msg-btn":"Submit",
+
+    "contactPage-map-main-title":"Visit Us",
+
+
+
+
+
+
+
+    
+
+
+    "home-banner.slider-ist.heading":"Suitable Development",
+    "home-banner.slider-ist.description":"DISCOVER THE DRIVING FORCE BEHIND AFGHAN INVEST: OUR VISION, OUR TEAM, OUR COMMITMENT",
+    "home-banner.slider-2nd.heading":"Mining Sector",
+    "home-banner.slider-2nd.description":"WE BUILD ON NATIONAL PRIDE & OUR EXPERTISE TO PROVIDE RELIABLE AND RESPONSIBLE MINING SERVICES",
+    "home-banner.slider-3rd.heading":"Energy Sector",
+    "home-banner.slider-3rd.description":"POWERING AFGHANISTAN'S FUTURE WITH INNOVATIVE AND SUSTAINABLE ENERGY SOLUTIONS",
+    "home-banner.slider-4th.heading":"News & Media",
+    "home-banner.slider-4th.description":"ACCESS THE LATEST UPDATES, JOB OPPORTUNITIES, AND COMPANY INSIGHTS HERE",
+    "home-banner.slider-5th.heading":"Founders",
+    "home-banner.slider-5th.description":"MEET THE VISIONARIES BEHIND AFGHAN INVEST: OUR FOUNDERS, OUR LEGACY, OUR DRIVE",
+    "home-banner.redirect-btn":"Read More",
+
+    "home-about.main-heading": "About Us",
+    "home-about.sub-heading": "Find Whatever you need to know about Afghan Invest"
+
+    
+
+}
